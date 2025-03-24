@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This r2.txt file is added at remote location
+=======
+This r2.txt file is added in feature branch
+>>>>>>> fd5a846 (r2.txt added in fb)
